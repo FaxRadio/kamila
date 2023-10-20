@@ -1,14 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
-https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20video%20%282%29.mp4
-
 #EXTM3U url-tvg=" http://grade-de-ALEX Radio FAX Deus Sempre Presente.xml "
  ############## ALEX Radio FAX Deus Sempre Presente ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeALEX Radio FAX Deus Sempre Presente" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/uhoa45pks0vvv
 #EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
@@ -18,23 +13,6 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS TV FAX INFANTIS.xml "
- ############## CANAIS TV FAX INFANTIS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX INFANTIS" group-title="
-
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS TV FAX INFANTIS",CARTOON NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS TV FAX INFANTIS",DISCOVERY KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31481
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS TV FAX INFANTIS",DISCOVERY KIDS HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31482
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS TV FAX INFANTIS",DISNEY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31483
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS TV FAX INFANTIS",DISNEY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31484
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png" group-title="CANAIS TV FAX INFANTIS",GLOOBINHO FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33739
 
 #EXTM3U url-tvg=" http://grade-de-TV FAX Michael Jackson.xml "
  ############## TV FAX Michael Jackson ############## ### 
@@ -259,8 +237,28 @@ https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%2
 https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Workaholic.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
+ ############## TV FAX A fazenda Final ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 1" tvg-logo="https://i.ytimg.com/vi/jOb0abiJNQE/maxresdefault.jpg" group-title="TV FAX A fazenda Final",A fazenda Final 1
+https://live-brasilweb.yamyday.com/live/pt_5C17A819ED5EA55FFB_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_5C17A819ED5EA55FFB_480p%26expired%3D1698319996%26token%3D5719B78F4447F6AE5AB93FD12C74E87A&timestamp=1697721716548
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 2" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/12/07094228/WhatsApp-Image-2021-12-07-at-08.02.41-1.jpeg" group-title="TV FAX A fazenda Final",A fazenda Final 2
+https://live-brasilweb.yamyday.com/live/pt_E91356A002F96A_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_E91356A002F96A_480p%26expired%3D1698319996%26token%3D8634C6681BD3C1FA5E3670D44C5004E5&timestamp=1697721794233
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 3" tvg-logo="https://i.ytimg.com/vi/jOb0abiJNQE/maxresdefault.jpg" group-title="TV FAX A fazenda Final",A fazenda Final 3
+https://live-brasilweb.yamyday.com/live/pt_0F6811A34F47DB43D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_0F6811A34F47DB43D_480p%26expired%3D1698319996%26token%3D412AA32171C693708EAE9476645B0668&timestamp=1697721914675
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 4" tvg-logo="https://s2-oglobo.glbimg.com/1G_5c5imsFGjP_QPhF1rMUwSmTM=/34x4:796x390/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/c/E/qrgmBwQ9qGM9RjvSFvfA/428054b1cb5e42488a70b7f96d0f44fd-babi-bia-e-iran-pedem-votos-ao-p-blico-na-grande-final-a-fazenda-14-thumb.jpg" group-title="TV FAX A fazenda Final",A fazenda Final 4
+https://live-brasilweb.yamyday.com/live/pt_7C98776BD2FF5BA_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_7C98776BD2FF5BA_480p%26expired%3D1698319996%26token%3DD699F97935E71D73CEF81C6D25F7228B&timestamp=1697721921531
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_18Q9DxQY1mlvPdbXuIO18OOUFzn4x5eA&usqp=CAU" group-title="TV FAX A fazenda Final",A fazenda Final 5
+https://live-brasilweb.yamyday.com/live/pt_D1911EA35263849E9_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_D1911EA35263849E9_480p%26expired%3D1698319996%26token%3DDF6AE5AFC114954198A4F18F4494BD81&timestamp=1697721935553
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda Final 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Eqe__h7TpdIr8nEDyP8O79lx8F3h6lHPRtvmKCKK7U9L0ENTW-oPm874WJD3AS3bMTc&usqp=CAU" group-title="TV FAX A fazenda Final",A fazenda Final 6
+https://live-brasilweb.yamyday.com/live/pt_6C0AEC11FB7C2B5848B24C_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_6C0AEC11FB7C2B5848B24C_480p%26expired%3D1698319996%26token%3D214EC8B3330B48AC0E6D8DEE4451E799&timestamp=1697721948252
+
+#EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
  ############## Canais SBT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT
+https://live-brasilweb.yamyday.com/live/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_Ezf6VNvIW51wZLG8xT274n3X_480p%26expired%3D1698319996%26token%3DD4F5526DBE395EB14967E269E26BDD17&timestamp=1697721986091
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -270,32 +268,13 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - h265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT BRASILIA - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARA -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARANÁ
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
-#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT RECIFE TV JORNAL - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
-#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT REDE MASSA
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
-#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT SC - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS RECORD.xml "
  ############## CANAIS RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
+
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP tv fax" tvg-logo="https://media3.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif" group-title="CANAIS RECORD",Record SP tv fax
+https://live-brasilweb.yamyday.com/live/pt_CAEC69A1456C34D1F6F1_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_CAEC69A1456C34D1F6F1_480p%26expired%3D1698319996%26token%3D328629E2B8DEEF605348073625B3DEBE&timestamp=1697722197020
 
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://media3.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif" group-title="CANAIS RECORD",Record SP 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151036
@@ -366,6 +345,144 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138098
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138101
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="Canais  JOVEM PAN NEWS",JOVEM PAN NEWS - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138102
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS INFANTIS TV FAX.xml "
+ ############## CANAIS INFANTIS TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS INFANTIS TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS INFANTIS TV FAX",CARTOON NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS INFANTIS TV FAX",DISCOVERY KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31481
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS INFANTIS TV FAX",DISCOVERY KIDS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31482
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS INFANTIS TV FAX",DISNEY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31483
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS INFANTIS TV FAX",DISNEY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31484
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png" group-title="CANAIS INFANTIS TV FAX",GLOOBINHO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33739
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS tv FAX.xml "
+ ############## CANAIS  FECHADOS tv FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  FECHADOS tv FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  FECHADOS tv FAX",A&E
+https://live-brasilweb.yamyday.com/live/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_PwsKRjIegyASUaYBiH3ou5LT_480p%26expired%3D1698401923%26token%3D971ED04B1AF464B5EEA85746B5B36738&timestamp=1697798074713
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC tv FAX",AMC - FHD
+https://live-brasilweb.yamyday.com/live/pt_85F9CD7B5F17F60F0C3A_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_85F9CD7B5F17F60F0C3A_480p%26expired%3D1698401923%26token%3D7F7BA80E4CD131E667F02FD002C63CC0&timestamp=1697798199740
+#EXTINF:-1 tvg-id="" tvg-name="animal planet "tvg-logo="https://i.pinimg.com/originals/a3/a2/e0/a3a2e0ed38bcbf9a789810976d1b9688.gif" group-title="CANAIS  FECHADOS tv FAX",animal planet 
+https://live-brasilweb.yamyday.com/live/m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_ZJTh6oMdeOURwWyiA9cHgYQk_480p%26expired%3D1698401923%26token%3DC02427176536FA4FA74F4C70CCAD8856&timestamp=1697798264649
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://media4.giphy.com/media/l49JQnkXTUoEI0H6w/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",AXN HD
+https://live-brasilweb.yamyday.com/live/m3_OHAJwrM6poGAZu6Uj_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_OHAJwrM6poGAZu6Uj_480p%26expired%3D1698401923%26token%3D9A83F1B311B0891244056F69B6A48379&timestamp=1697798402891
+#EXTINF:-1 tvg-id="" tvg-name="art 1"tvg-logo="https://i.ytimg.com/vi/NMmW0WMu-qQ/maxresdefault.jpg" group-title="CANAIS  FECHADOS tv FAX",art 1
+https://live-brasilweb.yamyday.com/live/m1_ozc7SQ9BcRT2MOBhxmpk_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_ozc7SQ9BcRT2MOBhxmpk_480p%26expired%3D1698401923%26token%3D43386D03BC9DC3B100A0316BFE59F712&timestamp=1697798488202
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV"tvg-logo="https://media.tenor.com/AtXbqlrwklIAAAAC/anime-tv.gif" group-title="CANAIS  FECHADOS tv FAX",Anime TV
+https://live-brasilweb.yamyday.com/live/m2_CJjAsNvIhMaEqTvV_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_CJjAsNvIhMaEqTvV_480p%26expired%3D1698401923%26token%3DB8AA16C1E743AC47CC7336D4AFD355B9&timestamp=1697798572407
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV"tvg-logo="https://media.tenor.com/X_CgE5B6H8MAAAAC/baby-tv-laugh.gif" group-title="CANAIS  FECHADOS tv FAX",BABY TV
+https://live-brasilweb.yamyday.com/live/m3_aEZNYVBM7gwkXuemhyKdcC62_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_aEZNYVBM7gwkXuemhyKdcC62_480p%26expired%3D1698401923%26token%3D1F2BB43000B10FBF9EB66625B4AFB532&timestamp=1697798665551
+#EXTINF:-1 tvg-id="" tvg-name="BBC"tvg-logo="https://media1.giphy.com/media/kyzXz7P8KyOvJWar48/200w.gif?cid=6c09b952ltpw30zisg2jrfh9xg5pua40f4zzsy9fedd88xuz&ep=v1_gifs_search&rid=200w.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",BBC
+https://live-brasilweb.yamyday.com/live/m4_iRKYdW4pMQjJHEho6OXvmCwq_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_iRKYdW4pMQjJHEho6OXvmCwq_480p%26expired%3D1698401923%26token%3DD6C572D37948C962B3653898AE874903&timestamp=1697798738975
+#EXTINF:-1 tvg-id="" tvg-name="BISS"tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEUAAAD///+SkpLR0dHh4eHu7u4fHx+np6cbGxv6+vqvr6/ExMTT09Pz8/O6urrZ2dkXFxd5eXmenp40NDRCQkIqKiovLy9paWliYmLl5eURERGIiIiBgYFZWVnCwsJQUFBJSUmgoKBycnJUVFQ9PT2WlpbRg4L4AAAEG0lEQVR4nO2c2XraQAxGM6wxYAgJJDFZcNPk/V+xaS7aepE80Qbl+889oznGy0gj++oKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwWy3JKUm2Wt4/ZI62oYcon3RQP9XY0f12uNtWt5OerNMT4OW+kihxhJJnYF/fbxab8O9BcMsZ40DClIuvYTawNXxbT1kBuhp+O2+GRbA0Pt209X8PPc3VwJEvD2bp3IFfDVN7FGc6JgXwNUzoGGR5LaiBvw7QLMfygJ+BuWEQY9l+BQYZp42/IPp/9Ddm5mhjyC5AAw3TwNRyYTYTh2tWQuwajDNPM0ZC5iwYa/vAzfBkMHmJYuhkehoOHGKbayzBjJjGG5HSVhtuM2DGGSyfD4mwMKx9DKp04gSG5OFUZ3mTFjjFMLoaLizfMC/0fGz5dvCH92xMYTh0M95mxYwzJLFhhOMqMvQgxJKMoDIcmsZk/PRx3u919iOGbgyEf8ZXO2FwMySxfblizAUWnpsJwRY4kN3zmArLVLw/DBwdDdkGzDzYk190aQ24O2nP0+/8hHVFu2LPL9AfR7VNlmCrqtJEbMqnhRC0oWLWln8aGXIGGLnx5GhJ3G7Eht2bLbyMwNexXFBu+M5H0l6HMsHefTWx4ZALpBYWGfaUMsSFTCeb38zwN+1YaHobM49fbMHW7gMSGj3QUg4eF2DDdXLxhZ5/t4gxTu/vEw1CdWKgM23+i2PDhXA3bzyqxIbMnQ2ejIYat26nYkKlDkdtAMYatAyw2ZDZlTmzYOk3FhswU9PmvzrC58BcbMunhx4kNmyVoqSHzsEiZ7cluhs2rRGrIzaA+sWFzXSw0fOMiGAiqDJu5jczwjgtAt7YEGTYPschwzzYoDLden71hzXdgiN6vOCfDu6Hde6Kq9x8YHva7x9GaKwR/YVHDOIHhqChymoN+83pyw+aGd65h/vgGxVKlYTN7Mzc0eVboDJs5sLmhQUVfa9hMEM0NbQRVhu+uhhaZk9Kw1Vljbci8FhBl2DrIxoYWqaHWsLU9Y2tItl4FGrartbaG9RkYtluHTA1N1txKw85pZGloUQlWG3aWVIaGRqsZnWE3OTU0HHohN8Sw+7SyMxx4HTfGsKdD0czwxVRQaNjXrGtlaCwoM+zdTjAyrI0FRYb9e14mhlN1K6KFIbEhZGFoU7fQGlIN8waGGV/fCDAkW2jVhsw7xoGG406TiZXhmP9iQ5BhRfdAKw3XXn7fMpyQLyIoDXO/YuRrOF0MHWWZ4WTBnRcWDH8nqig36+eMx1Tmd6K+XrovirIarz+2pktsgutZg+sGN59kF4RaI/1DY4jD7Jq+WwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgil9XdTw4vVxaggAAAABJRU5ErkJggg==" group-title="CANAIS  FECHADOS tv FAX",BISS
+https://live-brasilweb.yamyday.com/live/m4_AHRTkrZ8VGUFaC1ctW0db5O6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_AHRTkrZ8VGUFaC1ctW0db5O6_480p%26expired%3D1698401923%26token%3D5C4EFBDE5D6AFE60BC7CA32AAE2B9700&timestamp=1697798813713
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX"tvg-logo="https://cdn.dribbble.com/users/1593269/screenshots/15348237/cinemax-tv.gif" group-title="CANAIS  FECHADOS tv FAX",CINEMAX
+https://live-brasilweb.yamyday.com/live/m2_2bJRKdayBWQpTsZ8gPwq6iX0_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_2bJRKdayBWQpTsZ8gPwq6iX0_480p%26expired%3D1698401923%26token%3D3CE0AD1EFC9C66AC2D649ABE89E4A138&timestamp=1697798897734
+#EXTINF:-1 tvg-id="" tvg-name="CN CARTOON"tvg-logo="https://media.tenor.com/awSb1e1YF1oAAAAC/cartoon-network-cn.gif" group-title="CANAIS  FECHADOS tv FAX",CN CARTOON
+https://live-brasilweb.yamyday.com/live/pt_37F86C215309C4665F62_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_37F86C215309C4665F62_480p%26expired%3D1698401923%26token%3D489770C00DCD61EE2F5A27BA14B4943B&timestamp=1697798962578
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL"tvg-logo="https://i0.wp.com/media1.giphy.com/media/l41lJVpfmeR8Ynm1y/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",COMEDY CENTRAL
+https://live-brasilweb.yamyday.com/live/m1_XypHPFmzuIfLK41oZNncQelA_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_XypHPFmzuIfLK41oZNncQelA_480p%26expired%3D1698401923%26token%3DAEB83378E58358DB99A324E52D18F981&timestamp=1697799061900
+#EXTINF:-1 tvg-id="" tvg-name="CURTA HD"tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/11/producoes.png" group-title="CANAIS  FECHADOS tv FAX",CURTA HD
+https://live-brasilweb.yamyday.com/live/pt_F54038CB2ADB66D8C175810_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F54038CB2ADB66D8C175810_480p%26expired%3D1698401923%26token%3D8D7D1861209C50E94B199DBF2538CDF0&timestamp=1697799147411
+#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL"tvg-logo="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" group-title="CANAIS  FECHADOS tv FAX",CINE CANAL
+https://live-brasilweb.yamyday.com/live/m1_QYRhDvNfrwCkWyG6K9BSHmPZ_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_QYRhDvNfrwCkWyG6K9BSHmPZ_480p%26expired%3D1698401923%26token%3D3102DDB20D4454825FD909DAAE5F4DD1&timestamp=1697799314909
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK"tvg-logo="https://i.gifer.com/4fpq.gif" group-title="CANAIS  FECHADOS tv FAX",CARTOON NETWORK 
+https://live-brasilweb.yamyday.com/live/pt_A955E3C5D2DBD503958_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_A955E3C5D2DBD503958_480p%26expired%3D1698401923%26token%3D5E66C2C46BF78E9E1A6E9B9E3A064881&timestamp=1697799403973
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD"tvg-logo="https://images.axios.com/Sz6lyM8wPHX5IOL6yt-bFjNCe3c=/0x0:1280x720/1920x1080/2022/02/23/1645656090458.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY WORLD
+https://live-brasilweb.yamyday.com/live/m3_E3D2EB66-67DF-49EC-8eea_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_E3D2EB66-67DF-49EC-8eea_480p%26expired%3D1698401923%26token%3DBABA01B228CBBFA8C27A3C216BD3BC1D&timestamp=1697799521888
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HEH"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY HEH
+https://live-brasilweb.yamyday.com/live/pt_ZXA86A65D9118C7E632DCEB_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXA86A65D9118C7E632DCEB_480p%26expired%3D1698401923%26token%3DACD23467A947A06684D8F7817BC4D622&timestamp=1697799644949
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HIDS"tvg-logo="https://media0.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95295y0yd4qdhtpgtrzmeeod6higk76ezmalsqxwvy2&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY KIDS
+https://live-brasilweb.yamyday.com/live/m2_afy44nd1fdEvCQ38kIuMe_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_afy44nd1fdEvCQ38kIuMe_480p%26expired%3D1698401923%26token%3DBEF31552E7300AD4DFA77B9B140A653C&timestamp=1697799721688
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCES"tvg-logo="https://media0.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952yr15jeujkwhnhbym4zlcugjyxf5l63uyyor4nud1&ep=v1_gifs_search&rid=200w.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY SCIENCES
+https://live-brasilweb.yamyday.com/live/pt_ZX132E83E41F2C6737163E1_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX132E83E41F2C6737163E1_480p%26expired%3D1698401923%26token%3D0F72EE046DB947C70E5413519FA0E0D4&timestamp=1697799808004
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media3.giphy.com/media/1oF276wTq8czuIjUtu/giphy.gif?cid=6c09b952ntlcuyrj0ce0ab97nbm0w1bdv0rzsheiwg8jeelr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY THEATER
+https://live-brasilweb.yamyday.com/live/pt_ZXEC92F0AB931294_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXEC92F0AB931294_480p%26expired%3D1698401923%26token%3D21CD45F5EB072DC275F1391AB1DE037E&timestamp=1697799933431
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://i.gifer.com/DJag.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY TURBO
+https://live-brasilweb.yamyday.com/live/m1_NpfZjjxzoFwepkuEspTet_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_NpfZjjxzoFwepkuEspTet_480p%26expired%3D1698401923%26token%3D78935581C6B6B9D546BED9E5109C2954&timestamp=1697800017468
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD"tvg-logo="https://media1.giphy.com/headers/discoveryeurope/0fS7IXbFMoaj.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY WORLD
+https://live-brasilweb.yamyday.com/live/pt_ZXBE033871693023A8EBED_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXBE033871693023A8EBED_480p%26expired%3D1698401923%26token%3D268B779803FD72482BAE74D52BD60150&timestamp=1697800118210
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball SUPER"tvg-logo="https://i.pinimg.com/originals/86/68/d9/8668d99b7fd5e3855ef8881b7000b98f.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball SUPER
+https://live-brasilweb.yamyday.com/live/pt_ZX5FF688D3FB90B99A4460E_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX5FF688D3FB90B99A4460E_480p%26expired%3D1698401923%26token%3D2D5FD49F8974FCED93A14D30BE45A03B&timestamp=1697800212751
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball Z"tvg-logo="https://media.tenor.com/4e-jzGFTnxwAAAAC/goku-dragon-ball-z.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball Z
+https://live-brasilweb.yamyday.com/live/pt_ZX00F68C5F56CAF1D368A19_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX00F68C5F56CAF1D368A19_480p%26expired%3D1698401923%26token%3D56E71AE14796DF623AEA7119D4B164B1&timestamp=1697800296991
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball"tvg-logo="https://media.tenor.com/4e-jzGFTnxwAAAAC/goku-dragon-ball-z.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball
+https://live-brasilweb.yamyday.com/live/pt_818B01CAE88367DF559557C6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_818B01CAE88367DF559557C6_480p%26expired%3D1698401923%26token%3DC3D306A0ED5D8C0B4D18C29B3600AE1A&timestamp=1697800449964
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY"tvg-logo="https://i.gifer.com/WPi0.gif" group-title="CANAIS  FECHADOS tv FAX",DISNEY
+https://live-brasilweb.yamyday.com/live/pt_ZX8FBB5A8E54A6BAF3DD800_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX8FBB5A8E54A6BAF3DD800_480p%26expired%3D1698401923%26token%3D6B1E569206DABFD86FE646F28A1532C0&timestamp=1697800387468
+#EXTINF:-1 tvg-id="" tvg-name="DON"tvg-logo="https://i.pinimg.com/originals/58/d4/ba/58d4bac43176361a94bf976d9195dd6b.gif" group-title="CANAIS  FECHADOS tv FAX",DON
+https://live-brasilweb.yamyday.com/live/pt_95C13EEB476F9E65DB66E434_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_95C13EEB476F9E65DB66E434_480p%26expired%3D1698401923%26token%3D8C5DE8DBCF625622A5BF87C736FB05A7&timestamp=1697800494588
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV"tvg-logo="https://i.gifer.com/g24B.gif" group-title="CANAIS  FECHADOS tv FAX",FISH TV
+https://live-brasilweb.yamyday.com/live/pt_ZX37577FBBEFFCBD2A37_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX37577FBBEFFCBD2A37_480p%26expired%3D1698401923%26token%3D27E35CA0A648BCACBEAFF53E7077D667&timestamp=1697800567112
+#EXTINF:-1 tvg-id="" tvg-name="EMPREENDER TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQKLi_EjiQShLbBPf0-ibBblDUPlJSLiTb-f-QQ3P0OXMLzKgtTGvYRng1pLb4TT_lpc&usqp=CAU" group-title="CANAIS  FECHADOS tv FAX",EMPREENDER TV
+https://live-brasilweb.yamyday.com/live/pt_187E1CC75CBC15C96F_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_187E1CC75CBC15C96F_480p%26expired%3D1698401923%26token%3DE2CD9724A94414E378386C61C6CA7A45&timestamp=1697800670756
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK"tvg-logo="https://media.tenor.com/fZaFqrXCCdYAAAAC/cooking-food-network.gif" group-title="CANAIS  FECHADOS tv FAX",FOOD NETWORK
+https://live-brasilweb.yamyday.com/live/pt_ZXC026BB3CC86478C4_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXC026BB3CC86478C4_480p%26expired%3D1698401923%26token%3D37433C0AB2F3D596E859DA5679895ED5&timestamp=1697800767584
+#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://media3.giphy.com/media/Yt4O1DVRpyxR6/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",FX
+https://live-brasilweb.yamyday.com/live/m2_iXSj9zHqmOdwcYFuCLTb0MNK_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_iXSj9zHqmOdwcYFuCLTb0MNK_480p%26expired%3D1698401923%26token%3D9F3CC3FD34DAE2E03E000D804C997993&timestamp=1697800888908
+#EXTINF:-1 tvg-id="" tvg-name="FILM E ART"tvg-logo="https://imagem.natelinha.uol.com.br/original/filmartscanal_38cc3731cf5337129c4110d12776f57d2ab54bd3.jpeg" group-title="CANAIS  FECHADOS tv FAX",FILM E ART
+https://live-brasilweb.yamyday.com/live/m1_O6XM9VxNUHITLDryQnEmeFPq_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_O6XM9VxNUHITLDryQnEmeFPq_480p%26expired%3D1698401923%26token%3D184DE3FF86B7E0B8AC2E5FF7C53987F9&timestamp=1697800976570
+#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3f06f279623251.5cc8ee09266a3.gif" group-title="CANAIS  FECHADOS tv FAX",GNT
+https://live-brasilweb.yamyday.com/live/pt_7F272B95272713ED83C6E48D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_7F272B95272713ED83C6E48D_480p%26expired%3D1698401923%26token%3D51F3E599A9EC21407A797A243DDDFBD0&timestamp=1697801068410
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES"tvg-logo="https://i.pinimg.com/originals/9b/17/d0/9b17d05b12fdf46744ade9dc6f985c75.gif" group-title="CANAIS  FECHADOS tv FAX",GAME OF THRONES
+https://live-brasilweb.yamyday.com/live/pt_ZXC59F4B2E393D5D81_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXC59F4B2E393D5D81_480p%26expired%3D1698401923%26token%3D21F06CB1C6ED8A19DF9AC944B91C084A&timestamp=1697801159669
+#EXTINF:-1 tvg-id="" tvg-name="HG"tvg-logo="https://media4.giphy.com/media/51aWjHtarqPGMl8bnw/giphy-downsized.gif" group-title="CANAIS  FECHADOS tv FAX",HG
+https://live-brasilweb.yamyday.com/live/pt_ZXCD7B56959FC4E7_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXCD7B56959FC4E7_480p%26expired%3D1698401923%26token%3D0AB305E74F667E6629CAB29D6840E724&timestamp=1697801247313
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD"tvg-logo="https://i.gifer.com/origin/fa/fa5ffd06e3ba500cac21a5808882dd4b.gif" group-title="CANAIS  FECHADOS tv FAX",HISTORY HD
+https://live-brasilweb.yamyday.com/live/pt_05902805A4BC3C040F86C000_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_05902805A4BC3C040F86C000_480p%26expired%3D1698401923%26token%3D2E44189BF1B05556B911C974E7155E9E&timestamp=1697801319825
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD"tvg-logo="https://i.gifer.com/origin/fa/fa5ffd06e3ba500cac21a5808882dd4b.gif" group-title="CANAIS  FECHADOS tv FAX",HISTORY HD
+https://live-brasilweb.yamyday.com/live/pt_ZX4B6A8A14A79CCF0_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX4B6A8A14A79CCF0_480p%26expired%3D1698401923%26token%3D3EDE0AA539C9682962ADD6C61AB01CF1&timestamp=1697801745369
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUB"tvg-logo="https://i.gifer.com/CYgW.gif" group-title="CANAIS  FECHADOS tv FAX",HBO DUB 
+https://live-brasilweb.yamyday.com/live/pt_2110E2313FCB72F8FB8525B7_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_2110E2313FCB72F8FB8525B7_480p%26expired%3D1698401923%26token%3DCA096FFC8476805B1CA94DF93434D535&timestamp=1697801407633
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD"tvg-logo="https://media2.giphy.com/media/3o7bucr5ExuJo6khrO/giphy.gif?cid=6c09b9529z7w37xzltsqa74nqowtou647bbriz19j5v2srsz&ep=v1_gifs_search&rid=giphy.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",HBO HD
+https://live-brasilweb.yamyday.com/live/pt_7698E857D0871BD961F90013_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_7698E857D0871BD961F90013_480p%26expired%3D1698401923%26token%3DAAF06C05ADCA730D667DAC68946E0319&timestamp=1697801554649
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY"tvg-logo="https://media.tenor.com/f29CRDwJDL8AAAAM/famhbo04.gif" group-title="CANAIS  FECHADOS tv FAX",HBO FAMILY 
+https://live-brasilweb.yamyday.com/live/pt_AD87F27CBB5E766FC66E78C5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_AD87F27CBB5E766FC66E78C5_480p%26expired%3D1698401923%26token%3DE4654942C3B22C501FEA7A1369879BC8&timestamp=1697801618572
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://33.media.tumblr.com/4c7ced99ed72f7a551c7c8d0c6acb04e/tumblr_ns9gu7mNW61qdjbb7o1_500.gif" group-title="CANAIS  FECHADOS tv FAX",HBO PLUS 
+https://live-brasilweb.yamyday.com/live/pt_3A0B1A7F7EB0E062A0EE467D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_3A0B1A7F7EB0E062A0EE467D_480p%26expired%3D1698401923%26token%3D5B78F29D511DFC4A6CD55084F7C1D6EF&timestamp=1697801676672
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="CANAIS  FECHADOS tv FAX",HBO MUNDI
+https://live-brasilweb.yamyday.com/live/pt_BE6D7F06B97642EC56D7C70E_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_BE6D7F06B97642EC56D7C70E_480p%26expired%3D1698401923%26token%3D70D3E2A87AAAB5653CF8B051E767BC09&timestamp=1697801779570
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP"tvg-logo="https://i.ytimg.com/vi/fKdNLwyyqic/maxresdefault.jpg" group-title="CANAIS  FECHADOS tv FAX",HBO POP
+https://live-brasilweb.yamyday.com/live/pt_EBD2C41E950165E2CC375025_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_EBD2C41E950165E2CC375025_480p%26expired%3D1698401923%26token%3D6BA393185A732686D489E72C444C518B&timestamp=1697801863257
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://tv0800.tv/wp-content/uploads/2022/07/hboextreme.webp" group-title="CANAIS  FECHADOS tv FAX",HBO XTREME
+https://live-brasilweb.yamyday.com/live/m4_QlfKVdFeENbB8wAhXUWnrTkD_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_QlfKVdFeENbB8wAhXUWnrTkD_480p%26expired%3D1698401923%26token%3D07806BFCCC81580364A63F4597312792&timestamp=1697801947628
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX
+https://live-brasilweb.yamyday.com/live/pt_D9E313C2721070E45A77F4A5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_D9E313C2721070E45A77F4A5_480p%26expired%3D1698401923%26token%3D6EE2E31D07D0735C5A9D658538F5D2D2&timestamp=1697802035166
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 2
+https://live-brasilweb.yamyday.com/live/pt_2AE647EA79A72D10EE49FB57_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_2AE647EA79A72D10EE49FB57_480p%26expired%3D1698401923%26token%3D956297C12B8014286517F93816CA16BB&timestamp=1697802110443
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 3
+https://live-brasilweb.yamyday.com/live/pt_36588AEE36353F4B60A9CD58_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_36588AEE36353F4B60A9CD58_480p%26expired%3D1698401923%26token%3D9A16F4BFA0DAE1ABDE96167296FFE641&timestamp=1697802166460
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 4
+https://live-brasilweb.yamyday.com/live/pt_57D8FE8963E19DC7B72878A5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_57D8FE8963E19DC7B72878A5_480p%26expired%3D1698401923%26token%3D468588ECF2461C66DBE5F279453F3EBE&timestamp=1697802301638
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 5
+https://live-brasilweb.yamyday.com/live/pt_362FE217A8170A0FD339221C_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_362FE217A8170A0FD339221C_480p%26expired%3D1698401923%26token%3D4616FC16531085CA04A253D9AFCE5B3B&timestamp=1697802280808
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER"tvg-logo="https://i.pinimg.com/originals/fb/63/e8/fb63e8f9bbc2e96563e15fb5ed9ef40b.gif" group-title="CANAIS  FECHADOS tv FAX",HARRY POTTER
+https://live-brasilweb.yamyday.com/live/pt_572363BAA55F99D0B344CF73_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_572363BAA55F99D0B344CF73_480p%26expired%3D1698401923%26token%3D71168418DC444A49902CDD907A2A0769&timestamp=1697802319596
+#EXTINF:-1 tvg-id="" tvg-name="ID HD"tvg-logo="https://media3.giphy.com/avatars/investigationdiscovery/xFACjaIp4FHE.jpg" group-title="CANAIS  FECHADOS tv FAX",ID HD
+https://live-brasilweb.yamyday.com/live/m2_4NBa1dLVoRqQuEisXnlh5tge_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_4NBa1dLVoRqQuEisXnlh5tge_480p%26expired%3D1698401923%26token%3D6C0BC6006DF3F3001DA1C94A9FABA40A&timestamp=1697802411399
+#EXTINF:-1 tvg-id="" tvg-name="LIF TIME"tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952prat1we0bxjl7o2t3cuh3n965hx9glllp644ab35&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",LIF TIME
+https://live-brasilweb.yamyday.com/live/pt_5441044173D530DDDE8E308D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_5441044173D530DDDE8E308D_480p%26expired%3D1698401923%26token%3D2599B52AA3DBB0DF36ADECE2CB572CBE&timestamp=1697802503952
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX"tvg-logo="https://koifactory.com/wp-content/uploads/2019/11/MEGAPIX_STORYBOARD_COMEDIA_03_gif_anim.gif" group-title="CANAIS  FECHADOS tv FAX",MEGAPIX
+https://live-brasilweb.yamyday.com/live/pt_F8198CBA0DBAB7C810C2D1E6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F8198CBA0DBAB7C810C2D1E6_480p%26expired%3D1698401923%26token%3D43D2B2D42730CA7413D4AE9B8012BC7B&timestamp=1697802603903
+#EXTINF:-1 tvg-id="" tvg-name="MTV"tvg-logo="https://i.gifer.com/Yf9o.gif" group-title="CANAIS  FECHADOS tv FAX",MTV
+https://live-brasilweb.yamyday.com/live/pt_75AA17385B13ACC655B032AA_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_75AA17385B13ACC655B032AA_480p%26expired%3D1698401923%26token%3DC664E1533ECF2B6C5DD837C293BAFD3E&timestamp=1697802709279
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE"tvg-logo="https://i.gifer.com/Yf9o.gif" group-title="CANAIS  FECHADOS tv FAX",MTV LIVE
+https://live-brasilweb.yamyday.com/live/pt_4BEC1D8AB1A508406722FB27_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_4BEC1D8AB1A508406722FB27_480p%26expired%3D1698401923%26token%3DA76AEDAEC6833B41D24AB0C96478AB82&timestamp=1697802868441
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW"tvg-logo="https://www.radiografico.com.br/wp-content/uploads/2023/05/67100898948d5382b19639c6fd07a6ce.gif" group-title="CANAIS  FECHADOS tv FAX",MULTISHOW
+https://live-brasilweb.yamyday.com/live/pt_39B7156FD6DF278DEC0D29DB_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_39B7156FD6DF278DEC0D29DB_480p%26expired%3D1698401923%26token%3D556C9272B84715E32DE010171B1BA9CD&timestamp=1697802771241
+#EXTINF:-1 tvg-id="" tvg-name="MEGA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mLoenBW0ukD2Pd_ZabTueViDoriZ1obo9OgvgqhO7sAbVIUNgOl1yT09VD6XeTjCm2U&usqp=CAU" group-title="CANAIS  FECHADOS tv FAX",MEGA
+https://live-brasilweb.yamyday.com/live/pt_F3D2E9A613B67B239C16FCC3_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F3D2E9A613B67B239C16FCC3_480p%26expired%3D1698401923%26token%3D34FAC158C7CB586EEB15CE4568C3A0B6&timestamp=1697802938577
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO"tvg-logo="https://media4.giphy.com/media/35R7hcNPNS6KoU0yM2/200.gif" group-title="CANAIS  FECHADOS tv FAX",NATGEO
+https://live-brasilweb.yamyday.com/live/pt_DD902642AF97BAFB68809888_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_DD902642AF97BAFB68809888_480p%26expired%3D1698401923%26token%3DE5A1815AF8358E39C1E01FC71A6C233C&timestamp=1697803033028
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS.xml "
  ############## CANAIS  FECHADOS ############## ### 
@@ -529,622 +646,314 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/pl
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Difusora"tvg-logo="https://lh4.googleusercontent.com/-KMqjnysAOIs/UUyMaJiXyqI/AAAAAAAFuU0/T_xWgnurs3k/s336/difusora-ok.jpg" group-title="CANAIS | FECHADOS",TV Difusora 
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
-#EXTM3U url-tvg=" http://grade-deCANAIS HBO.xml "
- ############## CANAIS HBO ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO" group-title="
-
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - FHD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - FHD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - FHD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83958
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - HD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83956
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - HD²
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83957
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - SD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83954
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - SD²
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83955
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - FHD
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS | FECHADOS",HBO 2 - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83964
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - h265²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - h265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83963
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83961
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - HD²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83962
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83959
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - SD²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83960
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  HBO.xml "
- ############## CANAIS  HBO FAMILY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  HBO" group-title="
-
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO FAMILY - FHD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - FHD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO FAMILY - FHD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83967
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - HD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - HD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - HD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83966
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - SD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - SD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - SD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83965
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - FHD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - FHD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - FHD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS | FECHADOS",HBO MAIS - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83972
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - HD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83970
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - HD²" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83971
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO MAIS - SD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83968
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - SD²" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83969
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO MAX CHAMPIONS LEAGUE.xml "
- ############## CANAIS HBO MAX CHAMPIONS LEAGUE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO MAX CHAMPIONS LEAGUE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 - HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 2 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136708
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 - SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 2 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136707
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 - HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 3 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136710
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 - SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 3 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136709
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 4 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136712
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 4 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136711
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 5 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765330
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 5 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136713
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 6 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765332
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 -SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 6 -SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765331
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO Mundi.xml "
- ############## CANAIS HBO Mundi ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO Mundi" group-title="
-
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - FHD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - FHD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - FHD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83556
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - HD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83554
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - HD²
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83555
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - SD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83552
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83553
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO POP .xml "
- ############## CANAIS HBO POP ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO POP " group-title="
-
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - FHD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83565
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - FHD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83566
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - HD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - HD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - HD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83564
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - SD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - SD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - SD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83562
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP -HD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83563
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO SIGNATURE .xml "
- ############## CANAIS HBO SIGNATURE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO SIGNATURE " group-title="
-
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - FHD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82711
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD²" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - FHD²
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD²" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12875
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - HD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - HD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - HD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83974
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - SD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - SD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - SD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83973
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO Xtreme .xml "
- ############## CANAIS HBO Xtreme ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO Xtreme " group-title="
-
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - FHD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - FHD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - FHD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83561
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - HD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - HD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - HD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83558
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - SD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83557
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TELECINE.xml "
- ############## CANAIS | TELECINE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TELECINE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="TLC"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | TELECINE",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | FECHADOS",TLC
 http://45.58.126.146:14270/
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | TELECINE",TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | FECHADOS",TLC HD
 http://45.58.126.146:14270
-
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE premium"tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CANAIS | TELECINE",TELECINE premium
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE premium"tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CANAIS | FECHADOS",TELECINE premium
 https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS | FECHADOS",TELECINE TOUCH FHD
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31593
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS | TELECINE",Telecine Fun HD+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS | FECHADOS",Telecine Fun HD+
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16756
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS | FECHADOS",TELECINE ACTION HD
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31583
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CANAIS | TELECINE", TELECINE PIPOCA
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CANAIS | FECHADOS", TELECINE PIPOCA
 http://51.83.238.223:16763/
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 2"tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="CANAIS | TELECINE", TELECINE PIPOCA 2
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 2"tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="CANAIS | FECHADOS", TELECINE PIPOCA 2
 https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TELECINE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | FECHADOS", TELECINE ACTION
 http://51.83.238.223:16703/
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TELECINE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | FECHADOS", TELECINE ACTION
 http://45.58.126.146:14354
-
-#EXTM3U url-tvg=" http://grade-de-CINE COMEDIA.xml "
- ############## CINE COMEDIA ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCINE COMEDIA" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 1" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 1
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 1" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 1
 http://grtsvk.life:80/661282206/318344838/87944
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 2" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 2" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 2
 http://grtsvk.life:80/661282206/318344838/87945
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 3" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 3
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 3" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 3
 http://grtsvk.life:80/661282206/318344838/87946
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 4" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 4
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 4" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 4
 http://grtsvk.life:80/661282206/318344838/87947
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 5" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 5
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 5" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 5
 http://grtsvk.life:80/661282206/318344838/87948
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 6
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CANAIS | FECHADOS",CINE COMEDIA 6
 http://grtsvk.life:80/661282206/318344838/87949
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
- ############## CANAIS Studio Universal ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
-
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - HD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal FHD
-http://piglo.re:80/14957348417/2839302i178101/54429
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal HD
-http://piglo.re:80/14957348417/2839302i178101/54430
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal SD
-http://piglo.re:80/14957348417/2839302i178101/54431
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD"tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="Canais STUDIO UNIVERSAL", UNIVERSAL TV FHD
-http://45.58.126.146:14348/universal
-#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais STUDIO UNIVERSAL", studios
+#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAIS | FECHADOS", studios
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais STUDIO UNIVERSAL", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAIS | FECHADOS", STUDIO UNIVERSAL
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL - 4K H265
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS | FECHADOS",UNIVERSAL - 4K H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99907
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83599
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83596
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83597
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL -HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83598
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  NATIONAL GEOGRAFIC.xml "
- ############## CANAIS  NATIONAL GEOGRAFIC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  NATIONAL GEOGRAFIC" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" NATGEO"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATGEO
+#EXTINF:-1 tvg-id="" tvg-name=" NATGEO"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATGEO
 http://45.58.126.146:14287
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC "tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC "tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC
 http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
-http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC UHD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAFIC UHD
-http://84.17.44.179:14635/
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | SPACE.xml "
- ############## CANAIS | SPACE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | SPACE" group-title="
-
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE H.265
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | FECHADOS",SPACE H.265
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31282
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE HD*
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | FECHADOS",SPACE HD*
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31284
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | SPACE",SPACE - FHD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | FECHADOS",SPACE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | SPACE",SPACE - FHD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | FECHADOS",SPACE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/08/Space.png" group-title="CANAIS | SPACE",SPACE - H265
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/08/Space.png" group-title="CANAIS | FECHADOS",SPACE - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE - HD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | FECHADOS",SPACE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE - HD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | FECHADOS",SPACE - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="https://i.ytimg.com/vi/VFzizEkscrQ/mqdefault.jpg" group-title="CANAIS | SPACE",SPACE - SD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="https://i.ytimg.com/vi/VFzizEkscrQ/mqdefault.jpg" group-title="CANAIS | FECHADOS",SPACE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - H265
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/space
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/space
-#EXTINF:-1 tvg-id="" tvg-name=" SPACE"tvg-logo="http://3.bp.blogspot.com/_CzYC0vTttYs/R_9mlNAV5DI/AAAAAAAAANg/7Jbu7rB21Xs/w1200-h630-p-k-no-nu/49640_image9.jpg" group-title="CANAIS | SPACE",SPACE
-http://45.58.126.146:14323
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CANAIS | SPACE",SPACE
-http://51.159.54.153:14408/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE HD
-http://51.159.54.153:14408/ 
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE HD
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4k" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | SPACE",SPACE 4k
-http://meuplay.shop:80/Adminn8/6646885468/80568
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE
-http://45.58.126.146:14323
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD 2"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD 2
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space FHD
-http://piglo.re:80/14957348417/2839302i178101/54422
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space HD
-http://piglo.re:80/14957348417/2839302i178101/54423
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space SD
-http://piglo.re:80/14957348417/2839302i178101/54424
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS WARNER CHANNE.xml "
- ############## CANAIS WARNER CHANNE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS WARNER CHANNE" group-title="
-
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83603
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD H265
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - FHD H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/154313
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - HD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83601
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83602
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83600
-
-#EXTM3U url-tvg=" http://grade-de-Canais  STAR +.xml "
- ############## Canais  STAR + ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  STAR +" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 1 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136762
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 1 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136393
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 2 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138758715
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 3 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766176
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 4 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 4 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 4 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766179
-
-#EXTM3U url-tvg=" http://grade-de-Canais Star Channel.xml "
- ############## Canais Star Channel ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais Star Channel" group-title="
-
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83539
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD²
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83540
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - H265
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99905
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - HD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83538
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - SD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83537
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  A&E.xml "
- ############## CANAIS  A&E ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  A&E" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://199.127.60.83:16002/
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://45.58.126.146:14293/A&E
 #EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD(ALT)"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS  A&E",A&E FULL HD(ALT)
 http://199.127.60.83:16002/
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://45.58.126.146:14293
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS  A&E",A&E FULL HD
-http://45.58.126.146:14293
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
-http://45.58.126.146:14293/A&E
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83514
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS | FECHADOS",A&E - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83512
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83513
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83510
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83511
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  AXN.xml "
- ############## CANAIS  AXN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  AXN" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS  AXN",AXN HD 
 http://45.58.126.146:14299/axn
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83524
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83522
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - HD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83523
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83520
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83521
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS AMC.xml "
- ############## CANAIS AMC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS AMC" group-title="
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - FHD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83519
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83517
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83518
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83515
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83516
-
-#EXTM3U url-tvg=" http://grade-de-Canais FX.xml "
- ############## Canais FX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais FX" group-title="
-
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - FHD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83536
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - HD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83535
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - HD²
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83534
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - SD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83533
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
- ############## CANAIS | TNT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHDR
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - FHDR
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83589
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHD²
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88861
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83588
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88880
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83587
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88879
-#EXTINF:-1 tvg-id="" tvg-name="WEW TNT Sports 5"tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CANAIS | TNT",WEW TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | TNT",TNT Sports 5 WEW Brasil 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT 2 SÉRIES HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CANAIS | TNT",TNT 2 SÉRIES HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT HD
 http://45.58.126.146:14341
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT HD
 http://45.58.126.146:14270
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT 
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT 
 http://45.58.126.146:14342
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT HD
 http://45.58.126.146:14341
-
-#EXTM3U url-tvg=" http://grade-de-Canais | TNT  Filmes e Séries.xml "
- ############## Canais | TNT  Filmes e Séries ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="TNT FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
+#EXTINF:-1 tvg-id="Example" tvg-name="TNT FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS | FECHADOS",TNT FHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31299
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS | FECHADOS",TNT HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31300
-#EXTINF:-1 tvg-id="Example" tvg-name="TNT SERIES FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="Canais | TNT  Filmes e Séries",TNT SERIES FHD
+#EXTINF:-1 tvg-id="Example" tvg-name="TNT SERIES FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CANAIS | FECHADOS",TNT SERIES FHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31301
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT 4K
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="CANAIS | FECHADOS",TNT 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151053
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [H265]
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="CANAIS | FECHADOS",TNT FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83423
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
-#EXTINF:-1 tvg-id="TNT FHD [Alt]" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
-#EXTINF:-1 tvg-id="TNT HD [Alt]" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
-#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
-#EXTINF:-1 tvg-id="TNT Series FHD [Alt]" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
-#EXTINF:-1 tvg-id="TNT Series HD" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
-#EXTINF:-1 tvg-id="TNT Series HD [Alt]" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
-#EXTINF:-1 tvg-id="TNT Series SD" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS MEGAPIX.xml "
- ############## CANAIS MEGAPIX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS MEGAPIX" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS | FECHADOS",MEGAPIX FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31278
-#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS | FECHADOS",MEGAPIX FULLHD
 http://vivo.10initiatived.uk:8880/287994003365/287994003365/31278
-
-#EXTM3U url-tvg=" http://grade-de-title="CANAIS CINEMAX.xml "
- ############## CANAIS CINEMAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetitle="CANAIS CINEMAX" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="CINEMAX FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX FULLHD
+#EXTINF:-1 tvg-id="Example" tvg-name="CINEMAX FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS | FECHADOS",CINEMAX FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31274
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS | FECHADOS",CINEMAX HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31275
-
-#EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
- ############## Canais  Sony ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetitle="Canais  Sony" group-title="
-
-#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD²
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83528
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - HD
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83526
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - SD
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
-
-#EXTM3U url-tvg=" http://grade-de-Canais SYFY.xml "
- ############## Canais SYFY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais SYFY" group-title="
-
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - FHD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/28191
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - HD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/8177
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - HD²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12946
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - SD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/8014
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - SD²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53020
-
-#EXTM3U url-tvg=" http://grade-de-Canais CINE UNION.xml "
- ############## Canais CINE UNION ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais CINE UNION" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="Canais CINE UNION",CINE ACAO
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="CANAIS | FECHADOS",CINE ACAO
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/152723
-#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE DISNEY
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE DISNEY
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766190
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE MARVEL
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE MARVEL
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766191
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 01
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 01
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155499
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 02
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 02
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155500
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 03
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 03
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155501
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 04
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 04
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155502
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 05
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 05
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155503
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 06
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 06
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155504
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 07
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 07
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155505
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 10
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766192
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 11
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 8
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766197
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 9
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 9
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766198
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 10
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766192
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 11
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | DISCOVERY.xml "
- ############## CANAIS | DISCOVERY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | DISCOVERY" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY TURBO
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY TURBO HD
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY ID
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14261
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY WORD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="CANAIS | DISCOVERY",DISCOVERY WORD
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY WORD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="CANAIS | FECHADOS",DISCOVERY WORD
 http://45.58.126.146:14273
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY id"tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CANAIS | DISCOVERY",DISCOVERY id
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY id"tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CANAIS | FECHADOS",DISCOVERY id
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14252/   
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY THEATER HD
 http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY THEATER
 http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY CHANNEL HD
 http://45.58.126.146:14252/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVER"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVER"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
-http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY DISCOVERY H&H HD
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
-http://45.58.126.146:14252/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H"tvg-logo="https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/w1200-h675-p-k-no-nu/discovery-home-and-health-tv-logo-1.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY Kids (H265)
-http://pbrz.xyz:80/67531382/36606924/1340
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS FHD
-http://pbrz.xyz:80/67531382/36606924/1341
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS HD
-http://pbrz.xyz:80/67531382/36606924/1342
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS SD
-http://pbrz.xyz:80/67531382/36606924/1343
+
 
 #EXTM3U url-tvg=" http://grade-de-Canais ESPORTES JIU JITSU.xml "
  ############## Canais ESPORTES JIU JITSU ############## ### 
@@ -1383,6 +1192,13 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/139472
  ############## CANAIS | ESPORTES espn extra ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES espn extra" group-title="
 
+#EXTINF:-1 tvg-id="Example" tvg-name="espn BRASIL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn BRASIL TV
+https://live-brasilweb.yamyday.com/live/pt_ZXB57595E4925DBBEAFC_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXB57595E4925DBBEAFC_480p%26expired%3D1698319996%26token%3D30B9323A7BD3E9C56839000FE6025436&timestamp=1697719697685
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 2 BRASIL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn 2 BRASIL TV
+https://live-brasilweb.yamyday.com/live/pt_ZXBF3B025046D00B6C_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXBF3B025046D00B6C_480p%26expired%3D1698319996%26token%3DF8E34F31ECB0D8EA779E461963B83D82&timestamp=1697719869182
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 3 BRASIL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn 3 BRASIL TV
+https://live-brasilweb.yamyday.com/live/m1_2qZ7HgcBTY6p4rRoImX3nPLS_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_2qZ7HgcBTY6p4rRoImX3nPLS_480p%26expired%3D1698319996%26token%3D45C2D0B3390C0B57D0A5CF529A9650A2&timestamp=1697719922700
+
 #EXTINF:-1 tvg-id="Example" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn
 https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Example" tvg-name="espn extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn extra
@@ -1415,7 +1231,10 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83561
  ############## Canais FOX SPORTS 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2"tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2
+https://live-brasilweb.yamyday.com/live/pt_ZX4257952D1AF68944_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX4257952D1AF68944_480p%26expired%3D1698319996%26token%3DF5F5A6C3D08072D485F661D2B4B10D50&timestamp=1697720439003
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
@@ -1443,6 +1262,13 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
 http://liontv.me:80/mgfb2ed/mgf239161/34
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83561
+
+#EXTM3U url-tvg=" http://grade-de-Canais eleven sports.xml "
+ ############## Canais eleven sports ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais eleven sports" group-title="
+
+#EXTINF:-1 tvg-id="tvg-name="eleven sports 5" " tvg-logo="https://megacanaisonline.me/wp-content/uploads/2022/10/2-1-2.png" group-title="Canais eleven sports",eleven sports 5
+https://live-brasilweb.yamyday.com/live/pt_ZXF72B0A20C7BB40685_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXF72B0A20C7BB40685_480p%26expired%3D1698319996%26token%3D5C623D21BC907604A6B649E7E4E15985&timestamp=1697720094741
 
 #EXTM3U url-tvg="http://grade-de-CANAIS  INFANTIL.xml"
 ############## CANAIS  INFANTIL ################# 
@@ -2195,9 +2021,6 @@ https://ia902702.us.archive.org/31/items/a-mulher-milagrosa-tv-fax/A%20Mulher%20
 https://ia802705.us.archive.org/27/items/a-garota-no-trem-tv-fax/A%20Garota%20no%20Trem%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",365 Dias Finais"tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2022/08/365-Dias-Finais-Poster.jpg"group-title="FILMES | TV FAX",365 Dias Finais
 https://ia902603.us.archive.org/9/items/365-dias-finais-filmes-tv-fax-hd/365%20Dias%20Finais%20Filmes%20TV%20FAX%20HD.mp4
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
 https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
@@ -2782,7 +2605,6 @@ https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
-
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
@@ -2953,7 +2775,6 @@ https://ia801607.us.archive.org/28/items/arraste-me-para-o-inferno-2009-drag-me-
 #EXTINF:-1 tvg-id="" tvg-name="Amor Bandido 2012 "tvg-logo="https://i.ytimg.com/vi/aBBuMfBtI5Q/maxresdefault.jpg"group-title="FILME TV FAX | VARIADOS",Amor Bandido 2012 
 https://ia801608.us.archive.org/34/items/amor-bandido-2012-mud/Amor%20Bandido%202012%20%28Mud%29.mp4
 
-
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX | RAMBO.xml"
 ############## FILME TV FAX |  RAMBO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | RAMBO" group-title="
@@ -2977,7 +2798,6 @@ https://dn902605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%203%20O%20Resgate%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Rota De Fuga TV FAX"tvg-logo="https://imagem.natelinha.uol.com.br/original/tela-de-sucessos-bomba-ibope_3874.jpeg"group-title="FILME TV FAX | Rota De Fuga",Rota De Fuga TV FAX
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%20TV%20FAX.mp4
-
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX | Rocky Balboa.xml"
 ############## FILME TV FAX |  Rocky Balboa  ################# 
@@ -3046,6 +2866,20 @@ https://ia902700.us.archive.org/0/items/banana-joe-terence-hill-e-bud-spencer-tv
 #EXTINF:-1 tvg-id="" tvg-name="Par Ou Ímpar"tvg-logo="https://i.ytimg.com/vi/gvihYUXqGsw/mqdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Par Ou Ímpar
 https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer-tv-fax/Par%20ou%20%C3%8Dmpar%20-%20Terence%20Hill%20e%20Bud%20Spencer%20TV%20FAX%20.mp4
 
+#EXTM3U url-tvg="http://grade-de-Brasil TV FAX.xml"
+############## Brasil TV FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18nFuvaE2NNq8Kxkd8jghRgU8Hgd8C_PVLVE629aViLns1ht3f0FR1JbNWrS9-2t6SDo&usqp=CAU" group-title="Brasil TV FAX",A Espiã Vermelha
+https://vod-brasilweb.yamyday.com/vod/59020429E9E442E29FC5D14C50EBF322_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DamSd2E8OmSfP_NYEtq0fl5HsC%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697732407%26token%3Db065b2208bec33f7251a213a74f0be1a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D59020429E9E442E29FC5D14C50EBF322%26expired%3D1697732407%26token%3D9794034f33d3fd0fb96deb53606bd31b&timestamp=1697718010263
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Cowboy" tvg-logo="https://i.ytimg.com/vi/sOtmykBObcI/hqdefault.jpg" group-title="Brasil TV FAX",Coração de Cowboy
+https://vod-brasilweb.yamyday.com/vod/9E4CDEE79CCB48EF8023A2CB067DEFB9_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DHINY6xvoctd_Pjy89lXeptOM%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697732927%26token%3D6537c59eacaf75ec622ce553b3c32c85&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D9E4CDEE79CCB48EF8023A2CB067DEFB9%26expired%3D1697732927%26token%3D21d2a69de20a7081ad40dd77f6966fed&timestamp=1697718528828
+#EXTINF:-1 tvg-id="" tvg-name="Heróis de Guerra" tvg-logo="https://i.ytimg.com/vi/oCp-kCIycKE/sddefault.jpg" group-title="Brasil TV FAX",Heróis de Guerra
+https://vod-brasilweb.yamyday.com/vod/1B4C0A717AA84EBBADA7B36B98C7DDE0_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DPHfzfcdvtrLg_H211gxzqjq2x%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733085%26token%3Dc2c59a06c0e746a38139233b0b8b840b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D1B4C0A717AA84EBBADA7B36B98C7DDE0%26expired%3D1697733085%26token%3Dae204202e8decf47549de27936ad3087&timestamp=1697718691913
+#EXTINF:-1 tvg-id="" tvg-name="Confusão em Profusão" tvg-logo="https://media.fstatic.com/pcVFr6-v0j4jVrlozU_kL_kifDI=/322x478/smart/filters:format(webp)/media/movies/covers/2014/01/another-fine-mess_tNone.jpg" group-title="Brasil TV FAX",Confusão em Profusão
+https://vod-brasilweb.yamyday.com/vod/93C28466F44C470FA41F2D4D4EB9217B_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DmatkftnJEaET_QJQzybadBRuP%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733173%26token%3Df50a55068e3ead4a68db7043648e2d0d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D93C28466F44C470FA41F2D4D4EB9217B%26expired%3D1697733173%26token%3D558f2d3f93452c23dc1e1e5c9d9b2757&timestamp=1697718774971
+#EXTINF:-1 tvg-id="" tvg-name="Hercules in New York" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuuBHh862OLZddHKZ_I4dNdtVvX4oCBX8MJuaV4z6atsH9RgodYnMvZvZT7T1mogEUSk&usqp=CAU" group-title="Brasil TV FAX",Hercules in New York
+https://vod-brasilweb.yamyday.com/vod/3D40F1620BA348C5A0A593407ED9688D_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DchDpwFDNDLJx_tEq9TyypQaK%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733328%26token%3Dde8738469fe4763d1460fc65eb93dc24&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D3D40F1620BA348C5A0A593407ED9688D%26expired%3D1697733328%26token%3De2f943d39da77107bbfab484a7c2d9ef&timestamp=1697718929313
 
 #EXTM3U url-tvg="http://grade-de-Portuguese.xml"
 ############## Portuguese ################# 
